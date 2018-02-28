@@ -1,0 +1,7 @@
+<acceptance-test-run title="A user should be able to save a simulation for future use" name="aUserShouldBeAbleToSaveASimulationForFutureUse" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="PENDING" duration="15">
+  <user-story id="com.wakaleo.gameoflife.webtests.WhenTheUserStoresGameHistory" name="When the user stores game history" path="com.wakaleo.gameoflife.webtests"/>
+  <tags>
+    <tag name="Storing simulation history" type="feature"/>
+    <tag name="When the user stores game history" type="story"/>
+  </tags>
+</acceptance-test-run>

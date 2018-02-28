@@ -1,0 +1,10 @@
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/WhenTheUserStoresGameHistory.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/pages/ShowGridPage.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/pages/EnterGridPage.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/pages/HomePage.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/WhenTheUserGoesToTheHomePage.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/WhenTheUserSpawnsTheNextGeneration.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/WhenTheUserEntersAnInitialGrid.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/steps/PlayerSteps.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication.java
+/var/lib/jenkins/jobs/project01/workspace/gameoflife-acceptance-tests/src/test/java/com/wakaleo/gameoflife/webtests/pages/GameOfLifePage.java

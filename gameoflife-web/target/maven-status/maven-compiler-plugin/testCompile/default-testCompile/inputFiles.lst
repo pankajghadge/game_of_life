@@ -1,0 +1,3 @@
+/var/lib/jenkins/jobs/Project01/workspace/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenCreatingANewGame.java
+/var/lib/jenkins/jobs/Project01/workspace/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenSpawningANewGeneration.java
+/var/lib/jenkins/jobs/Project01/workspace/gameoflife-web/src/test/java/com/wakaleo/gameoflife/webtests/controllers/WhenDisplayingTheHomePage.java

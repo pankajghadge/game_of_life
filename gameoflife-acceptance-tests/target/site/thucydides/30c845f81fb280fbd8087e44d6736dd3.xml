@@ -1,0 +1,10 @@
+<acceptance-test-run title="Home page should display welcome message" name="homePageShouldDisplayWelcomeMessage" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="FAILURE" duration="8">
+  <user-story id="com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication.RunSimulations.RunASimulation" name="Run a simulation" path="com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication.RunSimulations">
+    <feature id="com.wakaleo.gameoflife.webtests.requirements.GameOfLifeApplication.RunSimulations" name="Run simulations"/>
+  </user-story>
+  <tags>
+    <tag name="Viewing previous games" type="feature"/>
+    <tag name="Run simulations" type="feature"/>
+    <tag name="Run a simulation" type="story"/>
+  </tags>
+</acceptance-test-run>

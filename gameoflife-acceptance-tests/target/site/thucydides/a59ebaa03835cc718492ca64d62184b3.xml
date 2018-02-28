@@ -1,0 +1,7 @@
+<acceptance-test-run title="A stable cell set should produce the same set of cells" name="aStableCellSetShouldProduceTheSameSetOfCells" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="FAILURE" duration="1">
+  <user-story id="com.wakaleo.gameoflife.webtests.WhenTheUserSpawnsTheNextGeneration" name="When the user spawns the next generation" path="com.wakaleo.gameoflife.webtests"/>
+  <tags>
+    <tag name="Configuring a simulation" type="feature"/>
+    <tag name="When the user spawns the next generation" type="story"/>
+  </tags>
+</acceptance-test-run>

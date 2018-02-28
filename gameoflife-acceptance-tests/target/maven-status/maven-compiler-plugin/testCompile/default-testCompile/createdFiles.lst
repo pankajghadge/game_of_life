@@ -1,0 +1,16 @@
+com/wakaleo/gameoflife/webtests/pages/HomePage.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RecordResults$ViewPastSimulationResults.class
+com/wakaleo/gameoflife/webtests/pages/GameOfLifePage.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RecordResults.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RecordResults$RecordASimulation.class
+com/wakaleo/gameoflife/webtests/pages/ShowGridPage.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RecordResults$ViewSimulationStatistics.class
+com/wakaleo/gameoflife/webtests/steps/PlayerSteps.class
+com/wakaleo/gameoflife/webtests/pages/EnterGridPage.class
+com/wakaleo/gameoflife/webtests/WhenTheUserEntersAnInitialGrid.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RunSimulations$RunASimulation.class
+com/wakaleo/gameoflife/webtests/WhenTheUserStoresGameHistory.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication$RunSimulations.class
+com/wakaleo/gameoflife/webtests/WhenTheUserSpawnsTheNextGeneration.class
+com/wakaleo/gameoflife/webtests/WhenTheUserGoesToTheHomePage.class
+com/wakaleo/gameoflife/webtests/requirements/GameOfLifeApplication.class

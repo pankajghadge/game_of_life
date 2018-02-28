@@ -1,0 +1,7 @@
+<acceptance-test-run title="User should be able to seed an empty grid on the new game page" name="userShouldBeAbleToSeedAnEmptyGridOnTheNewGamePage" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="FAILURE" duration="10">
+  <user-story id="com.wakaleo.gameoflife.webtests.WhenTheUserEntersAnInitialGrid" name="When the user enters an initial grid" path="com.wakaleo.gameoflife.webtests"/>
+  <tags>
+    <tag name="When the user enters an initial grid" type="story"/>
+    <tag name="Starting a new simulation" type="feature"/>
+  </tags>
+</acceptance-test-run>
